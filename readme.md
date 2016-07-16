@@ -3,8 +3,8 @@ ES6/ES2015 Fun
 
 Do this stuff
 -------------
-- npm install
 ```bash
+$ npm install
 $ gulp
 ```
 - review scripts in source
