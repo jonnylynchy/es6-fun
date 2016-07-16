@@ -1,5 +1,5 @@
-## ES6/ES2015 Fun
-==============
+ES6/ES2015 Fun
+=============
 This is a work user group project to help other developers learn ES6.
 
 Do this stuff
