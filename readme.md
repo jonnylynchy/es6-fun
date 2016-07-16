@@ -3,8 +3,12 @@ ES6/ES2015 Fun
 
 Do this stuff
 -------------
-- npm init
 - npm install
+```bash
+$ gulp
+```
+- review scripts in source
+- have fun in your browser
 
 Plan
 ----
