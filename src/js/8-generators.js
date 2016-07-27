@@ -11,15 +11,15 @@
 // Be careful to not set max too high!
 const previous = 0, current = 1, max = 100000;
 for(let fib of f(current, previous)) {
-	if(fib.current >= max){
-  	break;
+  if(fib.current >= max){
+    break;
   }
   console.log(fib.next);
 }
 
 function* f(current, previous){
   while(true){
-  	next = current + previous;
+    next = current + previous;
     previous = current;
     current = next;
     yield {current, previous, next};
