@@ -1,7 +1,9 @@
 // =================================
 // Fibonacci using ES2015 Generators
 // =================================
-
+// 
+// https://jsfiddle.net/jonnylynchy/uvncwkkz/
+//
 // 0. pass in initial numbers (previous: 0, current: 1)
 // 1. calculate the new number (current + previous)
 // 2. previous is set to current
